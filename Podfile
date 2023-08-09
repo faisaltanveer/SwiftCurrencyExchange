@@ -9,13 +9,4 @@ target 'SwiftCurrencyExchange' do
   pod 'MBProgressHUD'
   pod 'IQKeyboardManagerSwift'
 
-  target 'SwiftCurrencyExchangeTests' do
-    inherit! :search_paths
-    # Pods for testing
-  end
-
-  target 'SwiftCurrencyExchangeUITests' do
-    # Pods for testing
-  end
-
 end
