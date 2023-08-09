@@ -1,9 +1,3 @@
-//
-//  SwiftCurrencyExchangeUITestsLaunchTests.swift
-//  SwiftCurrencyExchangeUITests
-//
-//  Created by Innovative Saudia on 08/08/2023.
-//
 
 import XCTest
 
