@@ -1,6 +1,0 @@
-framework module Pods_SwiftCurrencyExchange_SwiftCurrencyExchangeUITests {
-  umbrella header "Pods-SwiftCurrencyExchange-SwiftCurrencyExchangeUITests-umbrella.h"
-
-  export *
-  module * { export * }
-}
